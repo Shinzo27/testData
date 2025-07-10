@@ -1,5 +1,5 @@
 [
-  books: {
+  books: [{
     "bookId": "B001",
     "bookName": "Item want",
     "bookDesc": "Phone five get food. Note hour take imagine.",
@@ -178,5 +178,6 @@
     "bookCategory": "Fiction",
     "bookPrice": 907,
     "releasedYear": 2015
-  },
+  }
+  ]
 ]
